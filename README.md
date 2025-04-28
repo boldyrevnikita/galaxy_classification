@@ -9,7 +9,7 @@ I utilized the Hugging Face Datasets library to load the Galaxy10 DECals dataset
 
 I further divided the training set into:
 • Training: 13,567 images
-• Validation: 2,395 images4
+• Validation: 2,395 images
 
 The class distribution includes diverse galaxy morphologies from disturbed galaxies to edge-on galaxies with bulge. I created visualization functions to display examples from each class to better understand the dataset.
 
