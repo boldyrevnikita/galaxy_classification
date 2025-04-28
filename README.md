@@ -1,4 +1,3 @@
-# galaxy_classification
 # Galaxy Classification with WaveMix Neural Network Architecture
 
 I implemented a deep learning approach to classify galaxy images from the Galaxy10 DECals dataset. My solution uses the WaveMix architecture with dropout regularization. Here is a breakdown of the methods employed:
