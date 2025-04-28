@@ -15,7 +15,7 @@ I further divided the training set into:
 The class distribution includes diverse galaxy morphologies from disturbed galaxies to edge-on galaxies with bulge. I created visualization functions to display examples from each class to better understand the dataset.
 
 ## Model Architecture: WaveMix
-Your approach leverages the WaveMix neural network architecture, which is relatively novel for image classification tasks. WaveMix combines wavelet transforms with standard neural network components, making it particularly effective for:
+My approach leverages the WaveMix neural network architecture, which is relatively novel for image classification tasks. WaveMix combines wavelet transforms with standard neural network components, making it particularly effective for:
 • Capturing multi-scale features in images
 • Handling spatial hierarchies common in astronomical data
 • Processing high-resolution details while maintaining global context
